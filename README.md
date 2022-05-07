@@ -20,6 +20,7 @@ Our code will break the game into four parts:
 -----
 ## How the project looks like
 What this project looks like. (paste image here) get the screen shot at the end of the project , upload on github and copy the link here.
+https://github.com/mehran1801/rock_paper_scissors/blob/main/rock%20paper%20scissors%20game.JPG
 
 
 ## How to run the project / app
